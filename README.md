@@ -9,7 +9,7 @@
 
 💭 IWTL/ Seeking advice on starting in cybersecurity and CTF's.
 
-⚡ Fun fact: Reading Crime and Punishment by Dostoevsky
+⚡ Fun fact: I'm currently reading Crime and Punishment by Dostoevsky :)
 
 
 ### Tech Stack 💻

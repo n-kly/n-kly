@@ -3,7 +3,7 @@
 
 👨‍🎓  Sophomore in Computer Science with a Philosophy minor at the University of Maryland College Park.
 
-🔭 Working on a skincare well-being app using AI for personalized routines.
+[comment]: <> (🔭 Working on a skincare well-being app using AI for personalized routines.) 
 
 🌱 Currently learning algorithms and programming language fundamentals.
 

@@ -3,12 +3,6 @@
 
 👨‍🎓  Sophomore in Computer Science with a Philosophy minor at the University of Maryland College Park.
 
-[comment]: <> (🔭 Working on a skincare well-being app using AI for personalized routines.) 
-
-🌱 Currently learning algorithms and programming language fundamentals.
-
-💭 IWTL/ Seeking advice on starting in cybersecurity and CTF's.
-
 ⚡ Fun fact: I'm currently reading Crime and Punishment by Dostoevsky :)
 
 

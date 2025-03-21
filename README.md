@@ -1,9 +1,9 @@
 
 ## Hi there, I'm Nirav Koley 👋 </br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nirav-koley) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@niravkoley) ![](https://komarev.com/ghpvc/?username=n-kly)
 
-👨‍🎓  Junior in Computer Science with a Philosophy minor at the University of Maryland College Park.
+👨‍🎓 Computer Science w/ a Philosophy minor at the University of Maryland.
 
-⚡ Fun fact: I'm currently reading Crime and Punishment by Dostoevsky :)
+⚡ Fun fact: My favorite author is Fyodor Dostoevsky :)
 
 
 ### Tech Stack 💻
